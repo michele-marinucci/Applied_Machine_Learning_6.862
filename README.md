@@ -1,5 +1,5 @@
 # Applied Machine Learning (6.862), Final Project: Predicting Returns in the US Equity Markets
-### Michele Marinucci, Henry Donnelly, and Raphael Bakobza. 
+### Michele Marinucci, Henry Donnelly, and Raphael Bokobza. 
 
 ## Repository overview
 In this repository, you may find:
